@@ -47,9 +47,9 @@ PCでも動作しますが、スマホでの体験を推奨します
 
 Title
 ​Breath Light — Visualize your breath as light.
-​Tagline (短い紹介文)
+​
 ​Turn your breath into a visual experience. No install, no login, just breathe.
-​Description (詳細説明)
+​Description 
 ​"Breathing is already a perfected interface."
 ​In our busy digital lives, we are constantly forced to tap, scroll, and think. Breath Light is an experimental art piece designed to "lighten" your life by returning to the most basic human act: breathing.
 ​This is not just a tool; it’s a moment of Zen. By using your smartphone’s microphone, your exhales are transformed into a soft, glowing light on the screen. No complex settings, no data tracking—just you and your breath.
@@ -60,7 +60,7 @@ Title
 ​📱 How to Experience
 ​Open the URL on your smartphone (Safari/Chrome recommended).
 ​Allow microphone access.
-​Tap "B5" and press the Play (▶) button.
+​Tap "P5" and press the Play (▶) button.
 ​Breathe out slowly toward the microphone and watch the light emerge.
 ​💡 About the Author
 ​Created by Sorakinu, an artist/creator building an "OS to lighten your life."
