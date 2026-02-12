@@ -36,7 +36,7 @@ class Particle {
     this.alpha = 100;
     this.h = random(250, 285);
     this.s = map(vol, 0, 0.2, 60, 30); 
-    this.b = map(vol, 0, 0.2, 40, 60); 
+    this.b = map(vol, 0, 0.2, 20, 40); 
     this.size = random(2, 12) * (vol * 10 + 1);
     this.type = floor(random(2));
   }
