@@ -1,3 +1,4 @@
+
 let mic;
 let particles = [];
 
@@ -34,7 +35,8 @@ class Particle {
     this.vy = random(-3, -0.5); 
     this.alpha = 100;
     this.h = random(250, 285);
-    this.s = map(vol, 0, 0.2, 40, 10); 
+    this.s = map(vol, 0, 0.2, 60, 30); 
+    this.b = map(vol, 0, 0.2, 40, 60); 
     this.size = random(2, 12) * (vol * 10 + 1);
     this.type = floor(random(2));
   }
@@ -45,7 +47,7 @@ class Particle {
   }
   show() {
     noStroke();
-    fill(this.h, this.s, 100, this.alpha);
+    fill(this.h, this.s, this.b, this.alpha);
     if (this.type === 0) {
       ellipse(this.x, this.y, this.size);
     } else {
