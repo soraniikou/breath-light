@@ -14,7 +14,7 @@ Breath Light
 使い方（スマホ推奨）
 下記のURLを開きます
 👉
-https://editor.p5js.org/sorakinu/full/9djKVthq0
+https://editor.p5js.org/sorakinu/full/sketches
 初回のみ
 **「マイクの使用を許可」**してください
 画面左上の 「p5」 をタップします
